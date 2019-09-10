@@ -1,0 +1,75 @@
+a
+{
+    font-family: arial; 
+    text-decoration: none;
+    color: black;
+}
+
+
+a:hover
+{
+    color: gray;
+    text-decoration: underline;
+}
+
+.entete
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.connexion
+{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(58, 58, 177);
+}
+
+.logo
+{
+    text-align: center;
+}
+
+.recherche
+{
+    color:rgb(80, 72, 72);
+    background-color: rgb(206, 203, 203);
+    border-radius: 2px;
+}
+
+.jdlc
+{
+    color:rgb(80, 72, 72);
+    background-color: rgb(206, 203, 203);
+    border-radius: 2px;
+}
+
+body
+{
+    text-align: center;
+}
+
+footer
+{
+    text-align: left;
+}
+
+.france
+{
+    color:rgb(80, 72, 72);
+    background-color: rgb(206, 203, 203);
+    width: 100%;
+    padding: 8px;
+    margin: 0px;
+    border-top: 1px rgb(182, 179, 179) solid ;
+}
+
+.fin
+{
+    color:rgb(80, 72, 72);
+    background-color: rgb(206, 203, 203);
+    width: 100%;
+    padding: 8px;
+    margin: 0px;
+    border-top: 1px rgb(182, 179, 179) solid ;
+}
